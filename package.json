@@ -1,0 +1,16 @@
+{
+  "name": "@yandongxu/tsconfig",
+  "version": "5.0.0",
+  "author": "yandongxu<hello@yandongxu.com>",
+  "files": [
+    "node",
+    "web"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
